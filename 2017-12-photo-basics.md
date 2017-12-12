@@ -1,8 +1,9 @@
 ---
 title: Photography basics
-date: 2017-12-06
+date: 2017-12-06 14:00:00 -0800
 tags: photography
-layout: blog
+layout: note
+author: brandonrisell
 ---
 
 Zach Donnell gave me a rundown of some photography basics, saving it here:
