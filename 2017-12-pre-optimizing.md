@@ -1,8 +1,9 @@
 ---
 title: Pre-Optimizing
-date: 2017-12-04
+date: 2017-12-04 13:00:00 -0800
 tags: development
-layout: blog
+layout: note
+author: brandonrisell
 ---
 Stumbled across this in a SO answer. So much wisdom here and easy to keep in mind:
 
